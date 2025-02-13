@@ -61,7 +61,6 @@ Constantly evolving through:
 - Mentoring fellow developers
 
 ## 🚀 Connect & Collaborate
-- 💼 [LinkedIn](https://www.linkedin.com/in/george-m-35aa65210/)
-- ✉️ george.dev02@gmail.com
+- ✉️  tamilarasan9086@gmail.com
 
 *Dedicated to continuous learning and engineering excellence*
