@@ -52,6 +52,12 @@ Greetings! I'm **Tamil**, a frontend architect with an eye for detail and a pass
 
 ### Personal Mantra
 > "Each line of code contributes to a greater narrative, and every component shapes the user's journey."
+graph LR
+    A[Current Focus] --> B[Strapi CMS]
+    A --> C[Next.js Mastery]
+    A --> D[React Ecosystem]
+    A --> E[Tanstack Suite]
+    A --> F[Axios Integration]
 
 ## 🌱 Professional Growth
 Constantly evolving through:
